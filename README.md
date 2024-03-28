@@ -1,4 +1,4 @@
-# Pro Developer VSCode Theme
+# Tech Learner Theme
 
 ## Author Information
 
