@@ -1,0 +1,51 @@
+{
+  "name": "tech-learner-theme",
+  "displayName": "Tech Learner Theme",
+  "description": "Official VSCode theme of Tech Learner!",
+  "publisher": "TechLearner",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prodeveloper25/Tech-Learner-VSCode-Theme"
+  },
+  "keywords": [
+    "Tech Learner Theme",
+    "Tech Learner Theme",
+    "TECH LEARNER THEME",
+    "dark theme",
+    "vscode theme",
+    "vs code theme",
+    "Learner",
+    "theme",
+    "Tech",
+    "color theme",
+    "visual studio code theme",
+    "New Theme",
+    "best theme",
+    "Asratul Hasan Nahid",
+    "top theme",
+    "tech",
+    "learner"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tech Learner Official - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Learner Theme-color-theme.json"
+      },
+      {
+        "label": "Orion Black - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orion-black-fork-color-theme.json"
+      }
+    ]
+  }
+}
