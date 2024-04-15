@@ -1820,7 +1820,7 @@
     "inputOption.activeBorder": "#00000000",
     "inputOption.activeForeground": "#9f9c9c",
     "input.placeholderForeground": "#666666",
-    "textLink.foreground": "#80ebff",
+    "textLink.foreground": "#4493f8",
     "editor.background": "#000000",
     "editor.foreground": "#ffffff",
     "editorLineNumber.foreground": "#757575",

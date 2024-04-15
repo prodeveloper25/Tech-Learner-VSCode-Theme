@@ -42,24 +42,39 @@
         "path": "./themes/orion-black-fork-color-theme.json"
       },
       {
-        "label": "Professional Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/professional-theme-color-theme.json"
-      },
-      {
-        "label": "Frydesign - Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/frydesign-theme-color-theme.json"
-      },
-      {
-        "label": "Cerise - Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/cerise-theme-color-theme.json"
-      },
-      {
         "label": "Tech Learner Official - Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Tech Learner Theme-color-theme.json"
+      },
+      {
+        "label": "Coder Dark - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coder Coder Dark Theme-color-theme.json"
+      },
+      {
+        "label": "One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDarkProMonokaiDarker-color-theme.json"
+      },
+      {
+        "label": "One Dark - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro-color-theme.json"
+      },
+      {
+        "label": "Tiger of the day",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Owl-color-theme.json"
+      },
+      {
+        "label": "Code Stack R Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeSTACKr-color-theme.json"
+      },
+      {
+        "label": "Hot Comming - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
       }
     ]
   }
